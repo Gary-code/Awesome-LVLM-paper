@@ -1,2 +1,0 @@
-# :facepunch: LVLM Model Zoo
-

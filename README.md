@@ -91,6 +91,7 @@
 | ![Star](https://img.shields.io/github/stars/damianomarsili/VADAR.svg?style=social&label=Star)<br/> **Visual Agentic AI for Spatial Reasoning with a Dynamic API**<br/> | CVPR 2025 | New API<br />Visual Program | [Project](https://glab-caltech.github.io/vadar/) |![image-20250320095117142](https://raw.githubusercontent.com/Gary-code/pic/main/img/image-20250320095117142.png)|
 | ![Star](https://img.shields.io/github/stars/yeliudev/VideoMind.svg?style=social&label=Star)<br />**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning** | 2025-03 | Agent<br />LoRA | [Project](https://videomind.github.io/) |![image-20250322102203566](https://raw.githubusercontent.com/Gary-code/pic/main/img/image-20250322102203566.png)|
 | ![Star](https://img.shields.io/github/stars/microsoft/Magma.svg?style=social&label=Star)**Magma: A Foundation Model for Multimodal AI Agents** | CVPR 2025 | Multimodal Agent | [Project](https://microsoft.github.io/Magma/) |![image-20250330103443734](https://raw.githubusercontent.com/Gary-code/pic/main/img/image-20250330103443734.png)|
+| ![Star](https://img.shields.io/github/stars/yuanze-lin/Olympus.svg?style=social&label=Star)<br />**Olympus: A Universal Task Router for Computer Vision Tasks** | CVPR 2025 | Universal Task Router | [Project](https://yuanze-lin.me/Olympus_page/) |![image-20250331101822408](https://raw.githubusercontent.com/Gary-code/pic/main/img/image-20250331101822408.png)|
 
 ### :face_with_head_bandage: LVLM Hallunication
 |  Title  |   Venue/Date  |   Note   |   Code   |   Picture   |
